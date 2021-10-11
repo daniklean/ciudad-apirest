@@ -1,0 +1,98 @@
+{
+  "construcciones": [
+    {
+      "id": "7c6ac8dc8f69efd42f0185aa",
+      "tipoConstruccion": "Casa",
+      "nombreConstruccion": "Flia. Quintero",
+      "recursosConstruccion": "Utilizados: Maquinaria de construcción, obreros, cemento, agua, cabillas, pinturas, ",
+      "ubicacion": "Av. Principal La Hoyada",
+      "habitaciones": "3",
+      "apartamentos": "No aplica",
+      "dimensiones": {
+        "largo": "9M",
+        "ancho": "70M"
+      }
+    },
+    {
+      "id": "2beb86655a51667f94bde51f",
+      "tipoConstruccion": "Edificio",
+      "nombreConstruccion": "Hotel Country Valera",
+      "recursosConstruccion": "Utilizados: Maquinaria de construcción, obreros, cemento, agua, cabillas, pinturas, ",
+      "ubicacion": "Urb. El Country Av Bolivar Valera",
+      "habitaciones": "200",
+      "apartamentos": "10",
+      "dimensiones": {
+        "largo": "70M",
+        "ancho": "30M"
+      }
+    },
+    {
+      "id": "d0b7269091c8ff462663106a",
+      "tipoConstruccion": "Apartamento",
+      "nombreConstruccion": "Hotel Country Valera",
+      "recursosConstruccion": "No aplica",
+      "ubicacion": "Urb. El Country Av Bolivar Valera",
+      "habitaciones": "3",
+      "dimensiones": {
+        "largo": "12M",
+        "ancho": "10M"
+      }
+    },
+    {
+      "id": "e74ed6387ca6ff5f972aefbd",
+      "tipoConstruccion": "Carretera",
+      "nombreConstruccion": "Recta el Gianni",
+      "recursosConstruccion": "Maquinaria de Asfaltado, obreros, asfalto, pintura, ojos de gato ",
+      "ubicacion": "Av. Bolivar, Sector El Gianni Valera",
+      "habitaciones": "No aplica",
+      "apartamentos": "No aplica",
+      "dimensiones": {
+        "largo": "3.5KM",
+        "ancho": "20M"
+      }
+    },
+    {
+      "id": "bbb9ef42a8d2f7a9b48ec034",
+      "tipoConstruccion": "Puente",
+      "nombreConstruccion": "Puente de la Bajada del Rio",
+      "recursosConstruccion": "Maquinaria de Asfaltado, Maquinaria de construcción, cemento, cabillas, agua, arena, obreros, asfalto, pintura, ojos de gato ",
+      "ubicacion": "Sector Bajada del Rio Diagonal a la Bomba",
+      "habitaciones": "No aplica",
+      "apartamentos": "No aplica",
+      "dimensiones": {
+        "largo": "20M",
+        "ancho": "8M"
+      }
+    },
+    {
+      "id": "a0fedbb40365b0db6ffaa089",
+      "tipoConstruccion": "Parque",
+      "nombreConstruccion": "Parque Los Ilustres",
+      "recursosConstruccion": " Maquinaria de construcción, cemento, cabillas, agua, arena, obreros, pintura",
+      "ubicacion": "Av Bolivar, Las Acacias Valera",
+      "habitaciones": "No aplica",
+      "apartamentos": "No aplica",
+      "dimensiones": {
+        "largo": "150M",
+        "ancho": "20M"
+      },
+      "locales": "2",
+      "atracciones": "4"
+    },
+    {
+      "id": "2a10a21235aa9633994802ec",
+      "tipoConstruccion": "Zona Comercial",
+      "nombreConstruccion": "Casco Central de Valera (Centro)",
+      "recursosConstruccion": "Maquinaria de Asfaltado, Maquinaria de construcción, cemento, cabillas, agua, arena, obreros, asfalto, pintura, ojos de gato",
+      "ubicacion": "Av Bolivar, Las Acacias Valera",
+      "habitaciones": "No aplica",
+      "apartamentos": "No aplica",
+      "dimensiones": {
+        "largo": "5KM",
+        "ancho": "2.5KM"
+      },
+      "locales": "600",
+      "atracciones": "2"
+    }
+  ]
+}
